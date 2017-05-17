@@ -5,21 +5,31 @@
 }
 
 .red {
-  height: 100px;
-  width: 60%;
+  height: 50px;
+  width: 400px;
   background-color: red;
 }
 
 .yellow {
-  height: 300px;
-  width: 10%;
+  height: 400px;
+  width: 50px;
   display: inline-block;
   background-color: yellow;
 }
 
 .blue {
-  height: 300px;
-  width: 50%;
-  display: inline-block;
+  height: 360px;
+  width: 300px;
+
   background-color: blue;
+}
+
+.green {
+  height: 40px;
+  width: 300px;
+  background-color: green;
+}
+
+.stack {
+  display: inline-block;
 }
