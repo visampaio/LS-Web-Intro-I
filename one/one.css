@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+}
+
+.red {
+  height: 100px;
+  width: 60%;
+  background-color: red;
+}
+
+.yellow {
+  height: 300px;
+  width: 10%;
+  display: inline-block;
+  background-color: yellow;
+}
+
+.blue {
+  height: 300px;
+  width: 50%;
+  display: inline-block;
+  background-color: blue;
+}
